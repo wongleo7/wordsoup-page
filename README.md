@@ -2,7 +2,8 @@
 
 ## Unleash the Power of Words with WordSoup!
 
-![WordSoup Logo](link-to-logo.png)
+![WordSoup Logo](https://github.com/wongleo7/wordsoup-page/assets/8765382/6c09daa1-bb97-4cf6-96e7-b09daeed0344)
+
 
 ### Overview
 
@@ -39,5 +40,3 @@ Follow us on instagram @wordsoup.app
 [Download on the App Store](link-to-app-store) | [Get it on Google Play](link-to-google-play)
 
 *Note: WordSoup is available for both iOS and Android devices.*
-
-Thank you for celebrating WordSoup's launch with us! Here's to a year filled with endless words and unforgettable moments. Cheers to the power of language and the joy of gaming!
